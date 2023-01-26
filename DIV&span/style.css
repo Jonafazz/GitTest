@@ -1,0 +1,40 @@
+/* block elementet -  zene komplet rreshtin
+nuk lejojne elementet e tjera ne rreshtin e njejte 
+pranojne width */
+
+/* inline elementet - zene hapesire ne rresht aq sa kane nevoje
+lejojne elemente tjera ne te njejtin rresht
+i injorojne width */
+
+/* div - bllok by default */
+/* p{
+    background-color: aqua;
+    border: 2px solid black;
+    width: 120px;
+    display: inline;
+
+} */
+/* .karta{
+    background-color: rgb(153, 179, 170);
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    text-align: center;
+}
+span{
+    font-weight: bold;
+} */
+body{
+    background-color: #51666f;
+}
+img{
+    width: 70px;
+}
+.filan{
+    font-weight: bold;
+    
+}
+.klasa{
+    background-color: #f7f7f7;
+    width: 25%;
+}

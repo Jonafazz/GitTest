@@ -1,0 +1,9 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(68, 116, 116);
+    /* x y blur spread color */
+    /* hija inset e bon hijen brenda */
+    /* box-shadow: 5px 5px  10px 5px rgb(243, 183, 30); */
+    box-shadow: inset 3px 3px 3px 3px rgb(31, 36, 31);
+}

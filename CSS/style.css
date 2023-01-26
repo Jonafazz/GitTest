@@ -1,0 +1,15 @@
+p{
+    color: rgb(255, 255, 255);
+    /* background-color: rgb(100, 2, 50) */
+    background-color: #483b57; 
+    /* letter-spacing: 3px; /*hapesira mes shkronjave*/
+    /* word-spacing: 9px; hapesira mes fjaleve */
+    /* text-indent: 40px; kryerresht */
+    /* text-align: center;*/ 
+    text-decoration:underline ;
+    text-transform: capitalize; /*shkronja te vogla, te medhqa, shkronjat e para te fjaleve te medha*/
+    /* text-transform: uppercase; */
+    /* line-height: 50px; */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}

@@ -1,0 +1,31 @@
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.Titulli{
+    font-weight: bolder;
+    font-size: large;
+}
+.Paragrafi{
+    line-height: 30px;
+    font-size: 12px;
+}
+.diqka{
+    font-weight: bold;
+    text-align: right;
+}
+.palidhje{
+    font-weight: lighter;
+    letter-spacing: 12px;
+    font-size: 13px;
+}
+.orange{
+    color: orange;
+    font-weight: bold;
+}
+.paragrafi2{
+    text-transform: uppercase;
+}
+.fund{
+    font-weight: 900;
+    font-size: 22px;
+}

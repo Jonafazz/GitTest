@@ -1,0 +1,22 @@
+/* h1, .class, p{
+    background-color: pink;
+    color: rgb(166, 107, 255);
+} */
+
+div p{
+    background-color: orange;
+}
+/* Selekton paragrafet qe gjende brenda DIV */
+.test p{
+    background-color: aquamarine;
+}
+/* Selekton paragrafet qe gjenden brenda klasave test, pavaresisht cfare elementi eshte ai */
+p + a{
+    background-color: black;
+    color: white;
+}
+/* Selektonl linkun i cili vjen pas paragrafit, linkkun direkt pas paragrafit*/
+h1 ~ p{
+    background-color: red;
+}
+/* te gjitha paragrafet pas h1 */

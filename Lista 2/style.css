@@ -1,0 +1,25 @@
+ul{
+    list-style-type: circle
+}
+ol{
+    list-style-type: lower-roman;
+}
+
+.Orari { 
+    background-color: rgb(201, 200, 200);
+}
+.Dita1{
+    background-color: aqua;
+}
+.Dita2{
+    background-color: aquamarine;
+}
+.Dita3{
+    background-color: rgb(127, 255, 176);
+}
+.Dita4{
+    background-color: rgb(127, 255, 144);
+}
+.Dita5{
+    background-color: rgb(148, 255, 127);
+}

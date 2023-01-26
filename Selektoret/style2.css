@@ -1,0 +1,17 @@
+/* pa marr parasysh se fmija i pare i kujt osht */
+/* Fmija i pare i tipit paragraf ka mu selektu */
+p:first-child{
+  color: red;
+}
+p:last-child{
+    color: aqua;
+}
+p:nth-child(3){
+    color: rgb(140, 0, 255)
+}
+/* nt(3) = third */
+
+p:nth-of-type(odd){
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(165, 161, 161);
+}
+div{
+    background-color: white;
+    width: 26%;
+    border-radius: 20px;
+    padding: 35px;
+    display:inline-block
+}
+span{
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+p{
+    color: rgb(161, 161, 161);
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+.yellow{
+    color: rgb(255, 196, 0);
+    font-size: 25px;
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+}
+ul li::before{
+    content: "✓ ";
+    color: orange;
+}
+.Butoni1{
+    background-color: rgb(235, 235, 235);
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.blue{
+    color:rgb(80, 131, 224);
+    font-size: 25px;
+    font-weight: bold;
+}
+.Butoni2{
+    text-align: center;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border : 1px solid rgb(224, 224, 224);
+    background-color: transparent;
+
+}
+
+.green{
+    font-size: 25px;
+    font-weight: bold;
+    color:turquoise
+}
+.Butoni3{
+    text-align: center;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: turquoise;
+    color: white;
+}

@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+
+.divipare{
+    box-shadow: 0px 6px 30px 4px rgba(0, 0, 0, 0.05);
+    height: 65px;
+    width: 100%;
+
+}
+p{
+    font-weight: lighter;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 15px;
+}
+span{
+ font-weight: bold;
+ color: black;
+}
+
+.teksti{
+  
+   width: 60%;
+   height: auto;
+   box-shadow: 0px 6px 30px 4px rgba(0, 0, 0, 0.05);
+   margin-top: 20px;
+   display: inline-block;
+   line-height: 65px;
+}
+.hh{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.dualipa{
+    display: inline-block;
+    box-shadow: 0px 6px 30px 4px rgba(0, 0, 0, 0.05);
+    width: 37%;
+    height: auto;
+    line-height: 70px;
+}
+img{
+    border-radius: 50px;
+    width: 200px;
+    padding-left: 970px;
+}
+.d{
+    font-weight: bold;
+}
+.i{
+    color: gray;
+    font-size: 35px;
+}

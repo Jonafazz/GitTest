@@ -1,0 +1,29 @@
+body{
+    
+    background-color: #c5d3f6;
+}
+table{
+    width: 1000px;
+    border-collapse: collapse;
+    background-color: #fafafa;
+    overflow: hidden;
+    border-radius: 10px;
+    text-align: left;
+}
+tr, td, table{
+    border-bottom:1px solid rgba(0,0,0,0.1);
+}
+tr{
+    color: #a9a9b5;
+}
+tr:nth-of-type(even){
+    background-color: #ffffff;
+}
+tr:nth-of-type(odd){
+    background-color: #fafafa;
+}
+tr:first-child{
+    background-color: #6d7ae0;
+     color: white;
+height: 40px; 
+}
